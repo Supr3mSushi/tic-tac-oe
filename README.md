@@ -1,21 +1,18 @@
-# Morpion du groupe EKIP
+# Tic-tac-toe made by EKIP
 
 
-**MorpionIA.py** est un morpion en joueur contre bot (JvIA), première version.
+**tic-tac-toe_AI.py** is a tic-tact-toe in Player vs AI, first version.
 
-**MorpionIA_V2.py** est la deuxième version de MorpionIA.py.
+**tic-tac-toe_AI_V2.py** is the second version of tic-tac-toe_AI.py.
 
-**Morpion.py** est un morpion en joueur contre joueur (JvJ).
+**tic-tac-toe.py** is a tic-tac-toe in player vs player (Player 1 vs Player 2).
 
-**morpion2_bot.py** est un morpion sans interface graphique où deux bot jouent l'un contre l'autre
+**RockPaperCisors.larp** is a rock/paper/scissors on LARP in player vs bot.
 
-**PierrefeuilleciseauDEFOU.larp** est un pierre/feuille/ciseau sur LARP en joueur contre bot
+**Flowchart.larp** is a rock/paper/scissors on LARP in flowchart.
 
-**Morpion_sans_interface.py** est un Morpion sans inteface grapique en joueur contre bot (JVIA)
-
-**OrganigrammelARP.larp** est un pierre feuille ciseau sur LARP en organigramme
-
-## Morpion par : 
+## Tic-tac-toe by : 
 ### - Lucas FERRAND 
 ### - Lucas Durand
 ### - Matthieu GUIOT 
+
