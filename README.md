@@ -1,4 +1,4 @@
-# Tic-tac-toe made by EKIP
+# Tic-tac-toe made by EKIP in order to learn the basics of Python : 
 
 
 **tic-tac-toe_AI.py** is a tic-tact-toe in Player vs AI, first version.
