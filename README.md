@@ -1,4 +1,4 @@
-# Tic-tac-toe made by EKIP in order to learn the basics of Python : 
+# Tic-tac-toe made in group of 3 in order to learn the basics of Python : 
 
 
 **tic-tac-toe_AI.py** is a tic-tact-toe in Player vs AI, first version.
@@ -11,8 +11,16 @@
 
 **Flowchart.larp** is a rock/paper/scissors on LARP in flowchart.
 
+
 ## Tic-tac-toe by : 
 ### - Lucas FERRAND 
 ### - Lucas Durand
 ### - Matthieu GUIOT 
+
+
+# Conway Life Game made by myselft, it was an exercise of positioning to understand the matrices that will later be used for the scrapping project :
+
+**ConwayLife.py is the game without interface. 
+
+**ConwayLifePygame.py is the game with graphical interface realized with the pygame library.
 
