@@ -7,7 +7,6 @@ These projects were created as part of a group effort of three individuals to le
 ### Tic-Tac-Toe
 ### tic-tac-toe_AI.py
 
-
 The first version of Tic-Tac-Toe in Player vs AI.
 ### tic-tac-toe_AI_V2.py
 
