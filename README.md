@@ -1,26 +1,45 @@
-# Tic-tac-toe made in group of 3 in order to learn the basics of Python : 
+# Tic-Tac-Toe and Conway's Game of Life 🎮
+
+## About
+These projects were created as part of a group effort of three individuals to learn the basics of Python programming. Each tic-tac-toe version and Conway's Game of Life exercise served as a practical application of Python concepts and helped in understanding matrices, laying the foundation for future projects.
+
+## The Games
+### Tic-Tac-Toe
+### tic-tac-toe_AI.py
 
 
-**tic-tac-toe_AI.py** is a tic-tact-toe in Player vs AI, first version.
-
-**tic-tac-toe_AI_V2.py** is the second version of tic-tac-toe_AI.py.
-
-**tic-tac-toe.py** is a tic-tac-toe in player vs player (Player 1 vs Player 2).
-
-**RockPaperCisors.larp** is a rock/paper/scissors on LARP in player vs bot.
-
-**Flowchart.larp** is a rock/paper/scissors on LARP in flowchart.
+The first version of Tic-Tac-Toe in Player vs AI.
+### tic-tac-toe_AI_V2.py
 
 
-## Tic-tac-toe by : 
-### - Lucas FERRAND 
-### - Lucas Durand
-### - Matthieu GUIOT 
+The second version of Tic-Tac-Toe_AI.py, with improvements.
+### tic-tac-toe.py
 
 
-# Conway Life Game made by myselft, it was an exercise of positioning to understand the matrices that will later be used for the scrapping project :
+Tic-Tac-Toe in Player vs Player (Player 1 vs Player 2).
+### RockPaperCisors.larp
 
-**ConwayLife.py is the game without interface. 
 
-**ConwayLifePygame.py is the game with graphical interface realized with the pygame library.
+Rock/Paper/Scissors on LARP in Player vs Bot.
+### Flowchart.larp
 
+Rock/Paper/Scissors on LARP in a flowchart.
+
+
+## Contributors 🤝
+- [Sushi](https://github.com/Supr3mSushi)
+- [Arna](https://github.com/lucas-durand)
+
+
+# Conway's Game of Life 🌌
+## ConwayLife.py
+
+
+The Game of Life without a graphical interface.
+## ConwayLifePygame.py
+
+The Game of Life with a graphical interface, implemented using the pygame library.
+
+
+## Contributing 🚀
+Contributions and suggestions are welcome ! Feel free to open issues or submit pull requests to enhance these projects.
