@@ -27,7 +27,7 @@ Rock/Paper/Scissors on LARP in a flowchart.
 
 ## Contributors 🤝
 - [Sushi](https://github.com/Supr3mSushi)
-- [Arna](https://github.com/lucas-durand)
+- Arna
 
 
 # Conway's Game of Life 🌌
